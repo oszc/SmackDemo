@@ -12,5 +12,6 @@
     <orderEntry type="library" name="commons-logging-1.2" level="project" />
     <orderEntry type="library" name="jxmpp-core-0.5.0-alpha7" level="project" />
     <orderEntry type="library" name="smack-bosh-4.1.5" level="project" />
+    <orderEntry type="library" name="IdeaCrackv2.1" level="project" />
   </component>
 </module>
